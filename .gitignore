@@ -1,0 +1,11 @@
+__pycache__
+.env
+.history
+my_defi.iml
+front_end/package-lock.json
+front_end/yarn.lock
+.hypothesis/
+build/
+reports/
+.idea/
+/pac_defi.iml
