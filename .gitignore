@@ -9,3 +9,4 @@ build/
 reports/
 .idea/
 /pac_defi.iml
+/front_end/node_modules/
